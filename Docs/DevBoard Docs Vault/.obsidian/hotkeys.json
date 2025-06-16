@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:create-resources/templates/component_template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ]
+}
